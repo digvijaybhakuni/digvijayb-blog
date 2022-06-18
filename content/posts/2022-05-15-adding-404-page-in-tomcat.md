@@ -6,9 +6,13 @@ thumbnail: /images/uploads/error-page-404.png
 ---
 # **How to add custom error pages in Tomcat 9?**
 
+![404 Error Page](/images/uploads/error-page-404.png "tomcat custom 404 page")
+
 We are going added two custom error pages one is 404 and one all the other errors for tomcat 9. we’ll start with creating error pages and added it to webapps directory of tomcat.
 
 I have added two pages **404.html** and **error.html** under *webapps/error*
+
+
 
 Now we need to edit server.xml and added following code under **Host** tag
 

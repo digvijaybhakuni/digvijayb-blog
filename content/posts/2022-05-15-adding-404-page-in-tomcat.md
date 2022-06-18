@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Adding 404 Page in Tomcat
+author: digvijayb
+tags:
+  - java
+  - tomcat
+  - web
 date: 2022-05-15T09:59:42.780Z
 thumbnail: /images/uploads/error-page-404.png
-author: digvijayb
 ---
 # **How to add custom error pages in Tomcat 9?**
 

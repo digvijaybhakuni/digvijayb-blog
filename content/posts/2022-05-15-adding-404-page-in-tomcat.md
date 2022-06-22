@@ -17,9 +17,7 @@ We are going added two custom error pages one is 404 and one all the other error
 
 I have added two pages **404.html** and **error.html** under *webapps/error*
 
-
-
-Now we need to edit server.xml and added following code under **Host** tag
+Now we need to edit `server.xml` and added following code under **Host** tag
 
 ```xml
 <Valve className="org.apache.catalina.valves.ErrorReportValve" 

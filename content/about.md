@@ -13,3 +13,4 @@ Find me at following places
 
 - Twitter [@digvijaybhakuni](https://twitter.com/digvijaybhakuni)
 - Github [@digvijaybhakuni](https://github.com/digvijaybhakuni)
+- Medium [@digvijay-bhakuni] (https://medium.com/@digvijay-bhakuni)

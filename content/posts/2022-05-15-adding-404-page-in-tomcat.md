@@ -7,7 +7,7 @@ tags:
   - tomcat
   - web
 date: 2022-05-15T09:59:42.780Z
-description: How to move docker-desktop-data from one drive to another drive?
+description: How to update error pages for tomcat?
 thumbnail: /images/uploads/error-page-404.png
 ---
 # **How to add custom error pages in Tomcat 9?**

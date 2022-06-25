@@ -5,10 +5,12 @@ author: digvijayb
 tags:
   - docker
   - windows
-date: 2022-06-21T13:24:26.568Z
+date: 2022-06-22T13:24:26.568Z
 thumbnail: /images/uploads/featured.png
+description: How to move docker-desktop-data from one drive to another drive?
 ---
 Docker desktop uses windows WSL2 (window subsystem for linux) to create VM (virtual machine), after docker desktop installation two WSL2 VM gets created. **docker-desktop** and **docker-desktop-data**.
+<!--more-->
 
 ![docker logo](/images/uploads/featured.png "Docker Destop")
 
@@ -22,9 +24,17 @@ docker-desktop-data VM have all the user data so, we will create copy of docker-
 
 ```
 //Exporting Data to tar
-wsl --export docker-desktop-data d:/wsl2/docker-data/data.tar//Deleting existing docker data 
-wsl --unregister docker-desktop-data//Importing tar to new location
+wsl --export docker-desktop-data d:/wsl2/docker-data/data.tar
+
+//Deleting existing docker data 
+wsl --unregister docker-desktop-data
+
+//Importing tar to new location
 wsl --import docker-desktop-data d:\wsl\docker-data d:\wsl\docker-data\data.tar
 ```
 
 <!--EndFragment-->
+
+
+### Bonus 
+> You can do this with any wsl instance, so it's not limited to docker-desktop-data

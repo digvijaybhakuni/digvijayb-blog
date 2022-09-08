@@ -8,7 +8,7 @@ tags:
   - ubuntu
   - linux
   - ""
-date: 2022-09-09T10:34:01.697Z
+date: 2022-09-08T18:46:16.457Z
 thumbnail: /images/uploads/featured.png
 ---
 Install docker in your system as you like do using apt, snap or etc

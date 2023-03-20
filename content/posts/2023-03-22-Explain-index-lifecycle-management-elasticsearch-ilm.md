@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding 404 Page in Tomcat
+title: Explain Index life cycle management (ILM) in elasticsearch?
 author: digvijayb
 tags:
   - elasticsearch

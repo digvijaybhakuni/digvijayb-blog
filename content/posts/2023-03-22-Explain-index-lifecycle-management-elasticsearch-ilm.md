@@ -8,7 +8,7 @@ tags:
   - index
   - web
   - search
-date: 2023-03-22T09:59:42.780Z
+date: 2023-03-20T09:59:42.780Z
 description: Explain Index life cycle management (ILM) in elasticsearch?
 thumbnail: /images/uploads/featured.png
 ---

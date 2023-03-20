@@ -4,12 +4,12 @@ title: Explain Index life cycle management (ILM) in elasticsearch?
 author: digvijayb
 tags:
   - elasticsearch
-  - elastic
+  - elasticstack
   - index
   - web
   - search
 date: 2023-03-20T09:59:42.780Z
-description: Explain Index life cycle management (ILM) in elasticsearch?
+description: Index Lifecycle Management (ILM) is a feature in Elasticsearch that allows you to automate the process of managing the lifecycle of your indices, including creating, managing, and deleting indices. ILM makes it easy to manage your data over time, while also ensuring that you are not wasting storage resources on data that is no longer needed.
 thumbnail: /images/uploads/featured.png
 ---
 Index Lifecycle Management (ILM) is a feature in Elasticsearch that allows you to automate the process of managing the lifecycle of your indices, including creating, managing, and deleting indices. ILM makes it easy to manage your data over time, while also ensuring that you are not wasting storage resources on data that is no longer needed. 
